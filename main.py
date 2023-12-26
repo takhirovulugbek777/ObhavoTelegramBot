@@ -1,6 +1,6 @@
 from aiogram import types, Dispatcher, Bot, executor
 
-token = "6654581861:AAGiVYTQJdKUZVXvrhisQgTJ7GI_Akb--XY"
+token = "Telegram bot token"
 from api import obhavo
 
 bot = Bot(token=token)

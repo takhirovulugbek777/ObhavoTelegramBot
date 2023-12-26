@@ -6,7 +6,7 @@ def obhavo(shahar):
     querystring = {"location": f"{shahar}", "format": "json", "u": "f"}
 
     headers = {
-        "X-RapidAPI-Key": "8359f71eccmsh7985a3b9f954bebp1567efjsn32b0f1ae2617",
+        "X-RapidAPI-Key": "RapiApiToken",
         "X-RapidAPI-Host": "yahoo-weather5.p.rapidapi.com"
     }
 
